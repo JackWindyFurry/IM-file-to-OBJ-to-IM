@@ -1,4 +1,4 @@
-OBJ2IM is a desktop application for Windows to convert Wavefront OBJ 3D model files to the IM format for use in Trainz and related 3D modeling activities. The application provides an easy to use graphical user interface, therefore users do not have to work with the command line.
+OBJ2IM2OBJ is a desktop application for Windows to convert Wavefront OBJ 3D model files to the IM format for use in Trainz and related 3D modeling activities. The application provides an easy to use graphical user interface, therefore users do not have to work with the command line.
 
 Users are able to choose an OBJ file, pick an original IM file to use as a reference, and indicate where the output should be saved. There is a live log window which provides feedback about the conversion process and other messages, warnings and errors in a manner similar to the Windows Command Prompt.
 
